@@ -6,7 +6,7 @@ public class demo {
         // 2. Variables and Data Types
         int age = 25;
         String name = "muddassir firoz darbar";
-        double salary = 50000.50;
+        double salary = 5000000.50;
         boolean isJavaDeveloper = true;
         
         System.out.println("\n--- Variables ---");
@@ -26,7 +26,7 @@ public class demo {
         // 4. If-Else Statement
         System.out.println("\n--- If-Else Statement ---");
         if (age >= 18) {
-            System.out.println(name + " is an Adult");
+            System.out.println(name + " is an Adulllttt");
         } else {
             System.out.println(name + " is a Minor");
         }
