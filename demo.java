@@ -5,7 +5,7 @@ public class demo {
         
         // 2. Variables and Data Types
         int age = 25;
-        String name = "Muzammil darbar";
+        String name = "muddassir firoz darbar";
         double salary = 50000.50;
         boolean isJavaDeveloper = true;
         
